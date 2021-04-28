@@ -1,0 +1,7 @@
+200000 #38560
+0 # Random seed, 0=generate randomly
+#
+# Timestamp	Fault			State
+# ===============================
+100000			4           	1
+300000			4		0
